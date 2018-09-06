@@ -62,5 +62,6 @@ public class SavedActivity extends AppCompatActivity implements AdapterSavedList
     public void onDelete(EntityDatabase entityDatabase) {
         databaseManager.daoMethods().delete(entityDatabase);
     }
+
 }
 

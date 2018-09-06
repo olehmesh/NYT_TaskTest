@@ -43,7 +43,6 @@ public class DetailsActivity extends AppCompatActivity {
 
         }
 
-
     @OnClick(R.id.button)
     void onButtonClick() {
 

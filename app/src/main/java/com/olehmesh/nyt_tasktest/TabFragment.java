@@ -88,6 +88,7 @@ public class TabFragment extends Fragment {
         recyclerView.setAdapter(adapter);
 
         return view;
+
 }
 
    @Override

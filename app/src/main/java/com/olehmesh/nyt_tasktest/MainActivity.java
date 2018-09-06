@@ -30,9 +30,6 @@ public class MainActivity extends AppCompatActivity {
         createTabs();
     }
 
-
-
-
     private void createTabs() {
 
         mAdapter = new AdapterViewPager(getSupportFragmentManager());
