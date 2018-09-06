@@ -47,5 +47,4 @@ public class ItemViewHolder extends RecyclerView.ViewHolder implements View.OnCl
         onItemClickListener.onClick(view, getAdapterPosition(), false);
 
         }
-
     }
