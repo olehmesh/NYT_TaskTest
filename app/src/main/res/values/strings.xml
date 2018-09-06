@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYT_TaskTest</string>
+
+    <string name="TITLE">title</string>
+    <string name="DESCRIPTION">description</string>
+    <string name="DATE">date</string>
+
+</resources>
